@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class ComputerShop1 {
     public static void main(String[] args) {
 
-
         String[] items = new String[]{"Lenovo", "Apple", "HP", "Sony", "Acer", "Asus"};
         Scanner console = new Scanner(System.in);
         printMenu();
